@@ -8,7 +8,7 @@ public class Class2Test {
 	public void MyMethod1()
 	{
 		for (int i=1;i<5;i++)
-		System.out.println("My method.."+ i);
+		System.out.println("My method..testing jenkins"+ i);
 	}
 
 }
